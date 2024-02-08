@@ -1,6 +1,6 @@
 # Cognitive Disorders Research Lab
 
-![CDRL Logo with CDRL in Yellow written on a blue background](logo.jpg)
+![CDRL Logo with CDRL in Yellow written on a blue background](./profile/logo.jpg)
 
 The Cognitive Disorders Research Lab is a research lab at the [University of Toledo](https://utoledo.edu). Led by [Dr. Robert E. Smith](https://www.utoledo.edu/med/depts/neurosciences/smith.html), the lab focuses on the study of cognitive disorders, including Alzheimer's disease and other neurodegenerative diseases. The lab is part of the [Department of Neurosciences](https://www.utoledo.edu/med/depts/neurosciences/) at the [University of Toledo College of Medicine and Life Sciences](https://www.utoledo.edu/med/).
 
