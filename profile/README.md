@@ -25,7 +25,9 @@ As a secondary goal, we are focused on developing novel software tools and techn
 7. Creeden JF, Alganem K, Imami AS, Henkel ND, Brunicardi FC, Liu SH, et al. Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and Pancreatic Cancer Desmoplasia. International Journal of Molecular Sciences. 2020 Jan;21(22):8823.
 8. Imami AS, O’donovan SM, Creeden JF, Wu X, Eby H, McCullumsmith CB, et al. Oxytocin’s anti-inflammatory and proimmune functions in covid-19: A transcriptomic signature-based approach. Physiological Genomics. 2020;
 9. DePasquale EAK, Alganem K, Bentea E, Nawreen N, McGuire JL, Tomar T, et al. KRSA: An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
-10. Alganem K, Shukla R, Eby H, Abel M, Zhang X, McIntyre WB, et al. Kaleidoscope: A New Bioinformatics Pipeline Web Application for In Silico Hypothesis Exploration of Omics Signatures. bioRxiv. 2020 May 3;2020.05.01.070805.
+10. [Khaled Alganem, Ali S. Imami, Smita Sahay, Hunter Eby, Taylen O. Arvay, Mackenzie Abel, Xiaolu Zhang, William Brett McIntyre, Jiwon Lee, Christy Au-Yeung, Roshanak Asgariroozbehani, Roshni Panda, Rammohan Shukla, Sinead M. O'Donovan, Margaret Hahn, Jarek Meller, Robert McCullumsmith. Kaleidoscope: A Bioinformatics Web Application for In Silico Exploration of Omics Data. 6 (2023): 327-338.](https://doi.org/10.26502/jbsb.5107068)
+11. [**Sahay S**, Devine EA, **McCullumsmith RE**, **O’Donovan SM**. Adenosine Receptor mRNA Expression in Frontal Cortical Neurons in Schizophrenia. Cells. 2024; 13(1):32.](https://doi.org/10.3390/cells13010032)
+12. [**Sahay S**, **Henkel ND**, Vargas CF-A, **McCullumsmith RE**, **O’Donovan SM**. Activity of Protein Kinase A in the Frontal Cortex in Schizophrenia. Brain Sciences. 2024; 14(1):13.](https://doi.org/10.3390/brainsci14010013)
 
 ## Our Team
 
