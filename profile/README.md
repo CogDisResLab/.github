@@ -13,6 +13,8 @@ As a secondary goal, we are focused on developing novel software tools and techn
 
 - [Kinome Random Sampling Analysis (KRSA)](https://github.com/CogDisResLab/KRSA)
 - [Kaleidoscope](https:://github.com/CogDisResLab/Kaleidoscope) - [Live Version](https://cdrl.shinyapps.io/kaleidoscope/)
+- [drugfindR](https://github.com/CogDisResLab/drugfindR)
+- [Creedenzymatic](https://github.com/CogDisResLab/creedenzymatic)
 
 ## Publications
 
