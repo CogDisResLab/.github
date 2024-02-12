@@ -45,7 +45,7 @@ As a secondary goal, we are focused on developing novel software tools and techn
 - [Jennifer Nguyen, MS, PhD Candidate](https://orcid.org/0009-0008-8708-0117)
 - [William G. Ryan V, MS, PhD Candidate](https://orcid.org/0000-0003-4868-4002)
 - [Hunter Eby, MS, PhD Candidate](https://orcid.org/0000-0002-9029-9768)
-- [Taylen O. Arvay, MSBS Student](https://orcid.org/0000-0000-0000-0000)
+- [Taylen O. Arvay, MSBS Student](https://orcid.org/0009-0008-7204-7226)
 
 ### Alumni
 
