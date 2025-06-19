@@ -74,9 +74,6 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 ### Current Graduate Students
 
 - [Dr. Ali S. Imami, MBBS, MS, PhD Candidate](https://orcid.org/0000-0003-3684-3539)
-- [Smita Sahay, MD, PhD Candidate](https://orcid.org/0009-0003-4377-8963)
-- [Jennifer Nguyen, MS, PhD Candidate](https://orcid.org/0009-0008-8708-0117)
-- [William G. Ryan V, MS, PhD Candidate](https://orcid.org/0000-0003-4868-4002)
 - [Hunter Eby, MS, PhD Candidate](https://orcid.org/0000-0002-9029-9768)
 - [John Vergis, BS, PhD Student](https://orcid.org/0009-0006-0864-3264)
 
@@ -84,18 +81,21 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 ### Alumni
 <!-- vale proselint.GenderBias = YES-->
 
-- [Dr. Abdul-rizaq Hamoud, PhD Candidate](https://orcid.org/0000-0003-3234-7669)
+- [Dr. Abdul-rizaq Hamoud, PhD](https://orcid.org/0000-0003-3234-7669)
 - [Dr. Nicholas Henkel, MD, PhD](https://orcid.org/0000-0003-4312-6124)
 - [Dr. Rawan Alnafisah, PhD](https://orcid.org/0000-0000-0000-0000)
 - [Dr. Justin F. Creeden, MD, PhD](https://orcid.org/0000-0003-3123-8401)
 - [Dr. Khaled Alganem, PhD](https://orcid.org/0000-0002-7368-5763)
+- [Dr. Smita Sahay, MD, PhD](https://orcid.org/0009-0003-4377-8963)
+- [Dr. Jennifer Nguyen, PhD](https://orcid.org/0009-0008-8708-0117)
+- [Dr. William G. Ryan V, PhD](https://orcid.org/0000-0003-4868-4002)
 - [Alexandra Kruzel, MS](https://orcid.org/0009-0003-9778-8884)
 - [Elizabeth Shedroff, MS](https://orcid.org/0000-0001-7056-2621)
 - [Alex Joyce, MS](https://orcid.org/0000-0003-0303-2481)
 - [Vineet Reddy, MS](https://orcid.org/0000-0000-0000-0000)
 - [Evelyn A. Bates, MS](https://orcid.org/0000-0002-4157-2481)
 - [Scott Miruzzi, MS](https://orcid.org/0000-0001-9768-1436)
-- [Taylen O. Arvay, MSBS Student](https://orcid.org/0009-0008-7204-7226)
+- [Taylen O. Arvay, MS](https://orcid.org/0009-0008-7204-7226)
 - [Mackenzie Abel, MS](https://orcid.org/0000-0000-0000-0000)
 - [Mahmoud Eladawi](https://orcid.org/0000-0003-1383-834X)
 - [Dr. Sinead O'Donovan, PhD](https://www.utoledo.edu/med/depts/neurosciences/odonovan.html)
