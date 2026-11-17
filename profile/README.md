@@ -98,7 +98,7 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 - [Taylen O. Arvay, MS](https://orcid.org/0009-0008-7204-7226)
 - [Mackenzie Abel, MS](https://orcid.org/0000-0000-0000-0000)
 - [Mahmoud Eladawi](https://orcid.org/0000-0003-1383-834X)
-- [Dr. Sinead O'Donovan, PhD](https://www.utoledo.edu/med/depts/neurosciences/odonovan.html)
+- [Dr. Sinead O'Donovan, PhD](https://pure.ul.ie/en/persons/sinead-odonovan/)
 
 ### Collaborators
 
