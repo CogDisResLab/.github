@@ -56,7 +56,7 @@ Emerging Kinase Therapeutic Targets in Pancreatic Ductal Adenocarcinoma and
 Pancreatic Cancer Desmoplasia. International Journal of Molecular Sciences.
 2020 Jan;21(22):8823.
 8. Imami AS, O’Donovan SM, Creeden JF, Wu X, Eby H, McCullumsmith CB, et al.
-Oxytocin’s anti-inflammatory and proimmune functions in COVID-19: A
+Oxytocin's anti-inflammatory and proimmune functions in COVID-19: A
 transcriptomic signature-based approach. Physiological Genomics. 2020;
 9. DePasquale EAK, Alganem K, Bentea E, Nawreen N, McGuire JL, Tomar T, et al.
 KRSA: An R package and R Shiny web application for an end-to-end upstream
