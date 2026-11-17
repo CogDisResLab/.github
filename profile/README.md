@@ -73,7 +73,6 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 
 ### Current Graduate Students
 
-- [Dr. Ali S. Imami, MBBS, MS, PhD Candidate](https://orcid.org/0000-0003-3684-3539)
 - [Hunter Eby, MS, PhD Candidate](https://orcid.org/0000-0002-9029-9768)
 - [John Vergis, BS, PhD Student](https://orcid.org/0009-0006-0864-3264)
 
@@ -81,6 +80,7 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 ### Alumni
 <!-- vale proselint.GenderBias = YES-->
 
+- [Dr. Ali S. Imami, MBBS, PhD](https://orcid.org/0000-0003-3684-3539)
 - [Dr. Abdul-rizaq Hamoud, PhD](https://orcid.org/0000-0003-3234-7669)
 - [Dr. Nicholas Henkel, MD, PhD](https://orcid.org/0000-0003-4312-6124)
 - [Dr. Rawan Alnafisah, PhD](https://orcid.org/0000-0000-0000-0000)
