@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2022 - 2024 Ali Sajid Imami
+#
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: MIT
+
+# Require contributors to use one of the issue forms instead of a blank issue.
+blank_issues_enabled: false
+
+# Optional: point people elsewhere for things that are not bugs or features.
+# Replace OWNER/REPO, then uncomment. Private vulnerability reporting must be
+# enabled in the repository's security settings for the first link to work.
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/AliSajid/pick15-menace/security/advisories/new
+    about: Please report security issues privately instead of opening a public issue.
+#   - name: Ask a question
+#     url: https://github.com/OWNER/REPO/discussions
+#     about: Questions and general discussion belong in Discussions.
