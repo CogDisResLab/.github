@@ -19,8 +19,8 @@ for therapeutic intervention and to develop new treatments for these devastating
 disorders.
 
 As a secondary goal, we are focused on developing novel software tools and
-techniques to accelerate the analysis of multi-omics data. We are particularly interested
-in developing tools that can be used to analyze large-scale, multi-omics datasets.
+techniques to accelerate the analysis of multiomics data. We are particularly interested
+in developing tools that can be used to analyze large-scale, multiomics datasets.
 
 ## Projects
 
