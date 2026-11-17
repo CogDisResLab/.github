@@ -75,6 +75,7 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 
 - [Hunter Eby, MS, PhD Candidate](https://orcid.org/0000-0002-9029-9768)
 - [John Vergis, BS, PhD Student](https://orcid.org/0009-0006-0864-3264)
+- [Mahmoud Eladawi](https://orcid.org/0000-0003-1383-834X)
 
 <!-- vale proselint.GenderBias = NO-->
 ### Alumni
@@ -97,7 +98,6 @@ kinase analysis of kinome array data. PLOS ONE. 2021 Dec 17;16(12):e0260440.
 - [Scott Miruzzi, MS](https://orcid.org/0000-0001-9768-1436)
 - [Taylen O. Arvay, MS](https://orcid.org/0009-0008-7204-7226)
 - [Mackenzie Abel, MS](https://orcid.org/0000-0000-0000-0000)
-- [Mahmoud Eladawi](https://orcid.org/0000-0003-1383-834X)
 - [Dr. Sinead O'Donovan, PhD](https://pure.ul.ie/en/persons/sinead-odonovan/)
 
 ### Collaborators
