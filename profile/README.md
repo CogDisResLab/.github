@@ -1,6 +1,6 @@
 # Cognitive Disorders Research Lab
 
-![CDRL Logo with CDRL in Yellow written on a blue background](./cdrl-logo-red.jpg)
+![CDRL Logo with CDRL in Black written on a White background. Surrounded by a rounded Red Rectangle](./cdrl-logo-red.jpg)
 
 The Cognitive Disorders Research Lab is a research lab at the
 [University of Toledo](https://utoledo.edu). Led by
